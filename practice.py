@@ -8,7 +8,13 @@
 # print(type(b))
 
                     # Working with Boolean
-x = True 
-y = False 
-print(type(x))
-print(type(y)) 
+# x = True 
+# y = False 
+# print(type(x))
+# print(type(y)) 
+
+                    # Working with strings
+x = 'Hello, this is a string'
+y = "This is also a string"
+z = x + " and " + y
+print(z)
