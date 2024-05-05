@@ -14,7 +14,11 @@
 # print(type(y)) 
 
                     # Working with strings
-x = 'Hello, this is a string'
-y = "This is also a string"
-z = x + " and " + y
-print(z)
+# x = 'Hello, this is a string'
+# y = "This is also a string"
+# z = x + " and " + y
+# print(z)
+
+                    # Reading keyboard input
+name = input('Enter your name: ')
+print('Your name is ' + name)
