@@ -20,5 +20,8 @@
 # print(z)
 
                     # Reading keyboard input
-name = input('Enter your name: ')
-print('Your name is ' + name)
+# name = input('Enter your name: ')
+# print('Your name is ' + name)
+print('what is your name?')
+name = input()
+print('Your name is ' + name) 
