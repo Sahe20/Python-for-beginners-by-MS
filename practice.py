@@ -25,5 +25,13 @@
 # print('what is your name?')
 # name = input()
 # print('Your name is ' + name) 
-x = input('Enter a number: ')
-print('the value entered is ' + x)
+# x = input('Enter a number: ')
+# print('the value entered is ' + x)
+# x = int(input('Enter a number: '))
+# print(type(x))
+
+# Simple calculator 
+
+first_number = int(input("enter the first number: "))
+second_number = int(input("enter the second number: "))
+print("the sum is: ", first_number + second_number)
